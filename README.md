@@ -1,27 +1,15 @@
-# Rei da Comprinha — Landing Page
+# Rei da Comprinha
 
-Pagina de conversao do Rei da Comprinha. Link na bio com ofertas reais do Mercado Livre.
+O grupo gratuito que acha as melhores ofertas da internet pra voce.
 
-## Stack
+Nosso bot varre o Mercado Livre 24 horas por dia, 7 dias por semana, cacando promocoes que realmente valem a pena. O resultado chega direto no seu Telegram ou WhatsApp — sem custo, sem pegadinha.
 
-Vue 3 + Vite + CSS puro
+- **247+ ofertas por dia** em tempo real
+- **Tecnologia propria** — bot exclusivo que compara precos
+- **Links diretos** pro Mercado Livre em 1 clique
+- **100% gratuito** — voce nao paga nada a mais
 
-## Rodar
-
-```bash
-npm install
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build   # output em dist/
-```
-
-## Deploy
-
-Conectado ao Vercel via GitHub. Push no `master` dispara deploy automatico.
+[Entrar no Telegram](https://t.me/MelPromoNandoBot) · [Entrar no WhatsApp](https://chat.whatsapp.com/HslpRDIsMQY3b9Nzm1cRjh)
 
 ---
 
