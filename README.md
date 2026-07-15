@@ -9,7 +9,7 @@ Nosso bot varre o Mercado Livre 24 horas por dia, 7 dias por semana, cacando pro
 - **Links diretos** pro Mercado Livre em 1 clique
 - **100% gratuito** — voce nao paga nada a mais
 
-[Entrar no Telegram](https://t.me/MelPromoNandoBot) · [Entrar no WhatsApp](https://chat.whatsapp.com/DkwDs6vcqPj7jVvBnVwkgG)
+[Entrar no Telegram](https://t.me/MelPromoNandoBot) · [Entrar no WhatsApp](https://chat.whatsapp.com/JQ8tNZsTR9BGxJErWUTmEc)
 
 ---
 
