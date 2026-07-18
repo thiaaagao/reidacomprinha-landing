@@ -11,10 +11,6 @@
         </div>
         <h1><span>Curadoria</span> que<br>vale a pena</h1>
         <p>O <strong class="text-gold">Rei</strong> filtra, compara e entrega as melhores ofertas direto no seu celular. Economia real, sem sensacionalismo.</p>
-        <div class="flex gap-3 mb-8 justify-center flex-wrap">
-          <div class="stat"><span class="stat-num tabular-nums">{{ metrics.offers }}</span><span class="stat-lbl">Ofertas hoje</span></div>
-          <div class="stat"><span class="stat-num tabular-nums">{{ metrics.members }}</span><span class="stat-lbl">Membros</span></div>
-        </div>
         <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="btn btn-telegram">
           <svg class="w-5 h-5" fill="#0088cc" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.2-.08-.06-.19-.04-.27-.02-.12.02-1.96 1.25-5.54 3.66-.52.36-1 .53-1.42.52-.47-.01-1.37-.26-2.03-.48-.82-.27-1.47-.42-1.41-.88.03-.24.37-.49 1.02-.74 4.01-1.75 6.69-2.9 8.04-3.46 3.83-1.59 4.63-1.87 5.15-1.88.11 0 .37.03.54.17.14.12.18.28.2.45-.01.06.01.24 0 .37z"/></svg>
           QUERO ENTRAR NO GRUPO &rarr;
