@@ -3,14 +3,14 @@
     <!-- HERO -->
     <section class="hero">
       <div class="hero-content reveal-1">
-        <div class="badge badge-purple">
+        <div class="badge badge-gold">
           <span class="badge-dot"></span>Novas ofertas todo dia &middot; Gratis
         </div>
         <div class="hero-img">
           <img src="/img/rei-sem-fundo.png" alt="Rei da Comprinha">
         </div>
-        <h1>Cansado de<br><span>Pagar Caro?</span></h1>
-        <p>O <strong class="text-purple">Rei</strong> acha as melhores ofertas para voce. Zero frescura, zero custo.</p>
+        <h1><span>Curadoria</span> que<br>vale a pena</h1>
+        <p>O <strong class="text-gold">Rei</strong> filtra, compara e entrega as melhores ofertas direto no seu celular. Economia real, sem sensacionalismo.</p>
         <div class="flex gap-3 mb-8 justify-center flex-wrap">
           <div class="stat"><span class="stat-num tabular-nums">{{ metrics.offers }}</span><span class="stat-lbl">Ofertas hoje</span></div>
           <div class="stat"><span class="stat-num tabular-nums">{{ metrics.members }}</span><span class="stat-lbl">Membros</span></div>
@@ -82,7 +82,7 @@
           </div>
         </div>
         <div class="text-center mt-8 reveal-3">
-          <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-sm font-bold text-purple hover:text-white transition-colors">
+          <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-sm font-bold text-gold hover:text-white transition-colors">
             Ver todas as ofertas no Telegram &rarr;
           </a>
         </div>
@@ -90,10 +90,10 @@
     </section>
 
     <!-- CTA MID-PAGE -->
-    <section class="py-12 px-5 text-center" style="background:linear-gradient(135deg,rgba(108,19,232,.08),rgba(108,19,232,.02))">
+    <section class="py-12 px-5 text-center" style="background:linear-gradient(135deg,rgba(212,168,75,.08),rgba(212,168,75,.02))">
       <div class="max-w-md mx-auto">
-        <p class="text-lg font-bold text-white mb-2">Nao perde tempo procurando.</p>
-        <p class="text-sub text-sm mb-6">O Rei ja fez o trabalho sujo. As ofertas chegam no seu celular.</p>
+        <p class="text-lg font-bold text-white mb-2">Ofertas selecionadas para voce.</p>
+        <p class="text-sub text-sm mb-6">Nosso bot varre o Mercado Livre 24h por dia. So chega no grupo o que realmente vale a pena.</p>
         <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="btn btn-telegram">
           <svg class="w-5 h-5" fill="#0088cc" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.2-.08-.06-.19-.04-.27-.02-.12.02-1.96 1.25-5.54 3.66-.52.36-1 .53-1.42.52-.47-.01-1.37-.26-2.03-.48-.82-.27-1.47-.42-1.41-.88.03-.24.37-.49 1.02-.74 4.01-1.75 6.69-2.9 8.04-3.46 3.83-1.59 4.63-1.87 5.15-1.88.11 0 .37.03.54.17.14.12.18.28.2.45-.01.06.01.24 0 .37z"/></svg>
           ENTRAR NO GRUPO GRATIS
@@ -117,7 +117,7 @@
           </div>
         </div>
         <div class="text-center mt-8 reveal-3">
-          <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-sm font-bold text-purple hover:text-white transition-colors">
+          <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-sm font-bold text-gold hover:text-white transition-colors">
             Quero receber essas ofertas gratis &rarr;
           </a>
         </div>
@@ -168,9 +168,9 @@
         <div class="badge badge-red">
           <span class="badge-dot-red"></span>Ofertas Expiram Rapido
         </div>
-        <h2 class="text-cta">Para de Pensar<br><span class="text-gold">e Entra Logo.</span></h2>
+        <h2 class="text-cta">Sua economia<br><span class="text-gold">comeca aqui.</span></h2>
         <p class="text-sub mb-10 max-w-md mx-auto text-base">
-          Cada minuto que voce espera e dinheiro que <strong class="text-red">voce perde</strong>. As melhores ofertas somem em horas. O Rei ja fez o trabalho sujo. So falta voce.
+          Milhares de pessoas ja estao economizando com as ofertas que o Rei encontra. Grupo gratuito. Links diretos. Sem pegadinha.
         </p>
         <div class="flex gap-3 justify-center flex-wrap mb-6">
           <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="btn btn-telegram">
