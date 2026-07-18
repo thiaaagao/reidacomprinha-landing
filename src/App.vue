@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="hero-content reveal-1">
         <div class="badge badge-gold">
-          <span class="badge-dot"></span>Novas ofertas todo dia &middot; Gratis
+          <span class="badge-dot"></span>Novas ofertas todo dia &middot; Grátis
         </div>
         <div class="hero-img">
           <img src="/img/rei-sem-fundo.png" alt="Rei da Comprinha">
@@ -26,13 +26,13 @@
     <div class="ticker">
       <div class="ticker-track">
         <span class="ticker-item"><span class="dot"></span>Ofertas em tempo real</span>
-        <span class="ticker-item"><span class="dot"></span>Bot proprio 24/7</span>
+        <span class="ticker-item"><span class="dot"></span>Bot próprio 24/7</span>
         <span class="ticker-item"><span class="dot"></span>100% gratuito</span>
         <span class="ticker-item"><span class="dot"></span>Links diretos</span>
         <span class="ticker-item"><span class="dot"></span>Zero pegadinha</span>
         <span class="ticker-item"><span class="dot"></span>Sem assinatura</span>
         <span class="ticker-item"><span class="dot"></span>Ofertas em tempo real</span>
-        <span class="ticker-item"><span class="dot"></span>Bot proprio 24/7</span>
+        <span class="ticker-item"><span class="dot"></span>Bot próprio 24/7</span>
         <span class="ticker-item"><span class="dot"></span>100% gratuito</span>
         <span class="ticker-item"><span class="dot"></span>Links diretos</span>
         <span class="ticker-item"><span class="dot"></span>Zero pegadinha</span>
@@ -73,7 +73,7 @@
         <span class="section-badge">Categorias</span>
         <h2 class="text-2xl font-black text-white mb-2">Tem oferta pra <span class="text-gold">todo mundo</span></h2>
         <div class="section-divider"></div>
-        <p class="text-sub text-sm mb-8">O Rei caca promocoes em todas as categorias. Do celular ao tenis.</p>
+        <p class="text-sub text-sm mb-8">O Rei caça promoções em todas as categorias. Do celular ao tênis.</p>
         <div class="cat-grid reveal-3">
           <div class="cat-card" v-for="c in categorias" :key="c.name">
             <span class="cat-icon" v-html="c.icon"></span>
@@ -92,11 +92,11 @@
     <!-- CTA MID-PAGE -->
     <section class="py-12 px-5 text-center" style="background:linear-gradient(135deg,rgba(212,168,75,.08),rgba(212,168,75,.02))">
       <div class="max-w-md mx-auto">
-        <p class="text-lg font-bold text-white mb-2">Ofertas selecionadas para voce.</p>
-        <p class="text-sub text-sm mb-6">Nosso bot varre o Mercado Livre 24h por dia. So chega no grupo o que realmente vale a pena.</p>
+        <p class="text-lg font-bold text-white mb-2">Ofertas selecionadas para você.</p>
+        <p class="text-sub text-sm mb-6">Nosso bot varre o Mercado Livre 24h por dia. Só chega no grupo o que realmente vale a pena.</p>
         <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="btn btn-telegram">
           <svg class="w-5 h-5" fill="#0088cc" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.2-.08-.06-.19-.04-.27-.02-.12.02-1.96 1.25-5.54 3.66-.52.36-1 .53-1.42.52-.47-.01-1.37-.26-2.03-.48-.82-.27-1.47-.42-1.41-.88.03-.24.37-.49 1.02-.74 4.01-1.75 6.69-2.9 8.04-3.46 3.83-1.59 4.63-1.87 5.15-1.88.11 0 .37.03.54.17.14.12.18.28.2.45-.01.06.01.24 0 .37z"/></svg>
-          ENTRAR NO GRUPO GRATIS
+          ENTRAR NO GRUPO GRÁTIS
         </a>
       </div>
     </section>
@@ -105,8 +105,8 @@
     <section class="py-16 px-5">
       <div class="max-w-xl mx-auto">
         <div class="text-center mb-10 reveal-2">
-          <span class="section-badge">O Que Voce Recebe</span>
-          <h2 class="text-2xl font-black text-white mb-2">Tudo que o <span class="text-gold">Rei</span> entrega no grupo, de graca.</h2>
+          <span class="section-badge">O Que Você Recebe</span>
+          <h2 class="text-2xl font-black text-white mb-2">Tudo que o <span class="text-gold">Rei</span> entrega no grupo, de graça.</h2>
           <div class="section-divider"></div>
         </div>
         <div class="grid gap-3 max-w-md mx-auto benefits-grid">
@@ -118,7 +118,7 @@
         </div>
         <div class="text-center mt-8 reveal-3">
           <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-sm font-bold text-gold hover:text-white transition-colors">
-            Quero receber essas ofertas gratis &rarr;
+            Quero receber essas ofertas grátis &rarr;
           </a>
         </div>
       </div>
@@ -127,17 +127,17 @@
     <!-- REINADO EM NUMEROS -->
     <section class="py-20 px-5 text-center">
       <div class="reveal-3 mb-12">
-        <span class="section-badge">Numeros</span>
-        <h2 class="text-2xl font-black text-white mb-2">O Reinado em <span class="text-gold">Numeros</span></h2>
+        <span class="section-badge">Números</span>
+        <h2 class="text-2xl font-black text-white mb-2">O Reinado em <span class="text-gold">Números</span></h2>
         <div class="section-divider"></div>
       </div>
-      <div class="flex gap-6 justify-center flex-wrap max-w-xl mx-auto mb-16 reveal-3">
-        <div class="stat-card"><span class="stat-card-num tabular-nums">{{ metrics.posted }}</span><span class="stat-card-lbl">Ofertas Postadas</span><span class="stat-card-sub">Desde o lancamento</span></div>
+      <div class="flex gap-6 justify-center flex-wrap max-w-3xl mx-auto mb-16 reveal-3">
+        <div class="stat-card"><span class="stat-card-num tabular-nums">{{ metrics.posted }}</span><span class="stat-card-lbl">Ofertas Postadas</span><span class="stat-card-sub">Desde o lançamento</span></div>
         <div class="stat-card"><span class="stat-card-num tabular-nums">{{ metrics.members }}</span><span class="stat-card-lbl">Membros no Grupo</span><span class="stat-card-sub">Crescendo todo dia</span></div>
-        <div class="stat-card"><span class="stat-card-num tabular-nums">32%</span><span class="stat-card-lbl">Economia Media</span><span class="stat-card-sub">vs. preco original</span></div>
+        <div class="stat-card"><span class="stat-card-num tabular-nums">32%</span><span class="stat-card-lbl">Economia Média</span><span class="stat-card-sub">vs. preço original</span></div>
       </div>
       <div class="flex gap-4 justify-center flex-wrap reveal-3">
-        <span class="trust"><svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z"/></svg>100% Gratis</span>
+        <span class="trust"><svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z"/></svg>100% Grátis</span>
         <span class="trust"><svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z"/></svg>Link Afiliado Transparente</span>
         <span class="trust"><svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z"/></svg>Voce Nao Paga Nada a Mais</span>
       </div>
@@ -166,11 +166,11 @@
     <section class="py-20 px-5 text-center cta-bg">
       <div class="reveal-4">
         <div class="badge badge-red">
-          <span class="badge-dot-red"></span>Ofertas Expiram Rapido
+          <span class="badge-dot-red"></span>Ofertas Expirar Rápido
         </div>
-        <h2 class="text-cta">Sua economia<br><span class="text-gold">comeca aqui.</span></h2>
+        <h2 class="text-cta">Sua economia<br><span class="text-gold">começa aqui.</span></h2>
         <p class="text-sub mb-10 max-w-md mx-auto text-base">
-          Milhares de pessoas ja estao economizando com as ofertas que o Rei encontra. Grupo gratuito. Links diretos. Sem pegadinha.
+          Milhares de pessoas já estão economizando com as ofertas que o Rei encontra. Grupo gratuito. Links diretos. Sem pegadinha.
         </p>
         <div class="flex gap-3 justify-center flex-wrap mb-6">
           <a href="https://t.me/MelPromoNandoBot" target="_blank" rel="noopener" class="btn btn-telegram">
@@ -182,13 +182,13 @@
             ENTRAR NO WHATSAPP
           </a>
         </div>
-        <p class="text-xs text-sub3">Links de afiliado podem gerar comissao &middot; Voce nao paga nada a mais</p>
+        <p class="text-xs text-sub3">Links de afiliado podem gerar comissão &middot; Você não paga nada a mais</p>
       </div>
     </section>
 
     <!-- FOOTER -->
     <footer class="footer">
-      <span>Rei da Comprinha</span>&copy; 2026 &middot; Transparencia acima de tudo
+      <span>Rei da Comprinha</span>&copy; 2026 &middot; Transparência acima de tudo
     </footer>
 
     <!-- STICKY CTA MOBILE -->
@@ -225,28 +225,28 @@ const carrosselItems = [...ofertas, ...ofertas]
 
 const categorias = [
   { icon:'&#x1F4F1;', name:'Celulares', count:'+120 ofertas' },
-  { icon:'&#x1F4BB;', name:'Informatica', count:'+90 ofertas' },
+  { icon:'&#x1F4BB;', name:'Informática', count:'+90 ofertas' },
   { icon:'&#x1F3AE;', name:'Games', count:'+65 ofertas' },
   { icon:'&#x1F3E0;', name:'Casa', count:'+80 ofertas' },
   { icon:'&#x1F45F;', name:'Moda', count:'+150 ofertas' },
   { icon:'&#x1F3CB;', name:'Esportes', count:'+70 ofertas' },
   { icon:'&#x1F50A;', name:'TV e Audio', count:'+55 ofertas' },
-  { icon:'&#x2699;', name:'Eletrodomesticos', count:'+100 ofertas' },
+  { icon:'&#x2699;', name:'Eletrodomésticos', count:'+100 ofertas' },
 ]
 
 const benefits = [
   { icon:'&#x1F4E1;', title:'Ofertas em Tempo Real', desc:'Nosso bot varre a internet 24h por dia. Oferta boa cai no grupo na hora.' },
-  { icon:'&#x1F916;', title:'Tecnologia Propria', desc:'Robo exclusivo feito por nos. Nao depende de copiar grupo alheio.' },
+  { icon:'&#x1F916;', title:'Tecnologia Própria', desc:'Robô exclusivo feito por nós. Não depende de copiar grupo alheio.' },
   { icon:'&#x1F4B0;', title:'Zero Custo pra Voce', desc:'Sem assinatura, sem mensalidade. O grupo e 100% gratuito pra sempre.' },
-  { icon:'&#x26A1;', title:'Compra em 1 Clique', desc:'Link direto pro Mercado Livre. Ve a oferta, clicou, comprou. Pronto.' },
+  { icon:'&#x26A1;', title:'Compra em 1 Clique', desc:'Link direto pro Mercado Livre. Vê a oferta, clicou, comprou. Pronto.' },
 ]
 
 const faqs = reactive([
-  { q:'O grupo e gratuito mesmo?', a:'Sim. 100% gratuito. Voce nao paga nada pra entrar e nem pra receber as ofertas. O Rei ganha uma pequena comissao dos links de afiliado quando voce compra — mas voce nao paga nada a mais por isso.', open:false },
-  { q:'Como o Rei acha as ofertas?', a:'Nosso bot varre a internet 24 horas por dia, monitorando dezenas de sites e grupos. Ele compara precos, filtra o que realmente vale a pena e descarta ofertas falsas. So chega no grupo o que presta.', open:false },
-  { q:'Preciso ter Telegram ou WhatsApp?', a:'O Rei esta nos dois. O app do Telegram e gratuito e leva 30 segundos pra instalar. Funciona em Android, iPhone e ate no computador. Mas se preferir, tambem temos grupo no WhatsApp.', open:false },
-  { q:'Os links sao seguros?', a:'Todos os links sao do Mercado Livre, a maior plataforma de e-commerce do Brasil. Voce compra direto no app ou site do Mercado Livre, com toda a seguranca e garantia da plataforma.', open:false },
-  { q:'Quantas ofertas sao postadas por dia?', a:'Em media 200 ofertas por dia. O numero varia conforme a disponibilidade do mercado, mas nosso bot trabalha 24h pra voce nao perder nenhuma promocao boa.', open:false },
+  { q:'O grupo é gratuito mesmo?', a:'Sim. 100% gratuito. Você não paga nada pra entrar e nem pra receber as ofertas. O Rei ganha uma pequena comissão dos links de afiliado quando você compra — mas você não paga nada a mais por isso.', open:false },
+  { q:'Como o Rei acha as ofertas?', a:'Nosso bot varre a internet 24 horas por dia, monitorando dezenas de sites e grupos. Ele compara preços, filtra o que realmente vale a pena e descarta ofertas falsas. Só chega no grupo o que presta.', open:false },
+  { q:'Preciso ter Telegram ou WhatsApp?', a:'O Rei está nos dois. O app do Telegram é gratuito e leva 30 segundos pra instalar. Funciona em Android, iPhone e até no computador. Mas se preferir, também temos grupo no WhatsApp.', open:false },
+  { q:'Os links são seguros?', a:'Todos os links são do Mercado Livre, a maior plataforma de e-commerce do Brasil. Você compra direto no app ou site do Mercado Livre, com toda a segurança e garantia da plataforma.', open:false },
+  { q:'Quantas ofertas são postadas por dia?', a:'Em média 200 ofertas por dia. O número varia conforme a disponibilidade do mercado, mas nosso bot trabalha 24h pra você não perder nenhuma promoção boa.', open:false },
 ])
 
 const STORE_KEY = 'rc_metrics'
